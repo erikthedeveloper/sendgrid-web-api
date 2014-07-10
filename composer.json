@@ -1,0 +1,23 @@
+{
+    "name": "ErikAybar/sendgrid-web-api",
+    "description": "A standalone library for interfacing with SendGrid's web API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erik Aybar",
+            "email": "erikthedeveloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "require-dev": {
+        "phpspec/phpspec": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ErikAybar\\SendGridWeb\\": "src"
+        }
+    }
+}
