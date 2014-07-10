@@ -1,0 +1,4 @@
+formatter.name: pretty
+suites:
+    sendgrid_web_suite:
+        namespace: ErikAybar\SendGridWeb

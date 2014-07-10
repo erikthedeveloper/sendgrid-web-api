@@ -1,5 +1,5 @@
 {
-    "name": "ErikAybar/sendgrid-web-api",
+    "name": "ErikAybar/SendGridWeb",
     "description": "A standalone library for interfacing with SendGrid's web API",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ErikAybar\\SendGridWeb\\": "src"
+            "ErikAybar\\SendGridWeb\\": "src/ErikAybar/SendGridWeb"
         }
     }
 }
